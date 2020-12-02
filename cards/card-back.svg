@@ -17,10 +17,13 @@
    xml:space="preserve"
    id="svg490"
    sodipodi:docname="card-back.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\Logan\boardgames\no-retreat-boardgame\cards\card-back.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"><metadata
    id="metadata496"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs494">
 	
 	
@@ -53,16 +56,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="1095"
+   inkscape:window-height="1008"
    id="namedview492"
    showgrid="false"
-   inkscape:zoom="3.9351852"
-   inkscape:cx="100.28253"
-   inkscape:cy="109.10129"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
+   inkscape:zoom="2.2086412"
+   inkscape:cx="91.270877"
+   inkscape:cy="119.24903"
+   inkscape:window-x="-7"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
    inkscape:current-layer="svg490"
    inkscape:document-rotation="0" />
 <rect
@@ -76,20 +79,20 @@
    stroke="#ed1c24"
    d="m 207.213,198.709 c 0,4.677 -3.827,8.504 -8.504,8.504 H 17.292 c -4.677,0 -8.504,-3.827 -8.504,-8.504 V 17.292 c 0,-4.677 3.827,-8.504 8.504,-8.504 h 181.417 c 4.677,0 8.504,3.827 8.504,8.504 z"
    id="path4"
-   style="fill:#800000;stroke:none" />
+   style="fill:#3a0000;stroke:none;fill-opacity:1" />
 
 <rect
-   style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="fill:#73b6aa;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="rect2277-9-3"
    width="178.48232"
    height="178.48227"
    x="18.875841"
    y="18.875841" /><path
    id="rect2277-7-2"
-   style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.06268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   style="fill:#d83424;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.06268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    d="M 123.04073,51.398811 V 78.444889 H 18.878722 V 138.02648 H 123.04073 v 27.33706 l 73.1451,-56.98236 z" /><text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0.95;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:end;text-anchor:end;fill:#1a1a1a;fill-opacity:1;stroke:none"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0.95;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:end;text-anchor:end;fill:#d3d2af;fill-opacity:1;stroke:none;"
    x="150.42029"
    y="103.67242"
    id="text853"><tspan

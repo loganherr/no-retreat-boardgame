@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600"
+   height="600"
+   viewBox="0 0 1600 600"
+   version="1.1"
+   id="svg2862"
+   sodipodi:docname="1600x600.svg"
+   inkscape:export-filename="C:\Users\Logan\Documents\boardgames\no-retreat-boardgame\ads\1600x600.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2856" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47676878"
+     inkscape:cx="390.50295"
+     inkscape:cy="455.09157"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1209"
+     inkscape:window-height="1008"
+     inkscape:window-x="702"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2859">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#73b6aa;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:5.45527;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2277-9-3"
+       width="1594.5448"
+       height="594.54474"
+       x="1.9879776"
+       y="1.9738718" />
+    <path
+       id="rect2277-7-2-1-6"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.61487;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 399.35634,15.396261 v 41.09989 H 241.06895 V 147.0379 H 399.35634 V 188.58 l 111.1532,-86.59187 z" />
+    <path
+       id="rect2277-7-2-1-9"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.8697;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 882.21671,372.44009 v 47.58539 H 698.95214 v 104.82896 h 183.26457 v 48.09734 L 1010.9096,472.69596 Z" />
+    <path
+       id="rect2277-7-2"
+       style="fill:#d83424;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:4.02317;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 587.4619,68.170956 V 170.56375 H 193.11851 V 396.13169 H 587.4619 V 499.62613 L 864.37943,283.89856 Z" />
+    <path
+       id="rect2277-7-2-1"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:2.0938;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.89839,357.74461 v 53.28902 H 34.667461 v 117.3939 H 239.89839 v 53.86235 l 144.1182,-112.27261 z" />
+    <path
+       id="rect2277-7-2-1-9-3"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.3209;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1074.434,83.772305 V 117.39025 H 944.96197 v 74.05913 H 1074.434 v 33.97961 l 90.9184,-70.82832 z" />
+    <path
+       id="rect2277-7-2-1-9-8"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.8697;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1425.9937,153.53594 v 47.58539 h -183.2646 v 104.82896 h 183.2646 v 48.09734 l 128.6928,-100.25582 z" />
+  </g>
+</svg>

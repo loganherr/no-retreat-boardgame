@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="216"
+   height="150"
+   viewBox="0 0 216 150"
+   version="1.1"
+   id="svg2792"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="216x150.svg"
+   inkscape:export-filename="C:\Users\Logan\Documents\boardgames\no-retreat-boardgame\216x150.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2786">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2852">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd"
+         id="rect2854"
+         width="96.482826"
+         height="39.06506"
+         x="55.844681"
+         y="0.7865448" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6970115"
+     inkscape:cx="109.7134"
+     inkscape:cy="82.727804"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1227"
+     inkscape:window-height="1008"
+     inkscape:window-x="684"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px" />
+  <metadata
+     id="metadata2789">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#73b6aa;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.00279;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2277-9-3"
+       width="214.99721"
+       height="148.99721"
+       x="0.47225475"
+       y="0.64494985" />
+    <path
+       id="rect2277-7-2-1-6"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:0.362561;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 187.23671,97.240564 v 9.227476 h -35.53763 v 20.32784 h 35.53763 v 9.32676 L 212.1921,116.6816 Z" />
+    <path
+       id="rect2277-7-2-1"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:0.470087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 50.394788,97.494805 V 109.4589 H 4.3176855 v 26.35651 H 50.394788 v 12.09282 l 32.35646,-25.20671 z" />
+    <path
+       id="rect2277-7-2-1-9"
+       style="fill:#800000;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:0.419773;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 109.22743,-7.0866649 V 3.5968885 H 68.08208 V 27.132402 h 41.14535 v 10.798497 l 28.89328,-22.508778 z"
+       clip-path="url(#clipPath2852)" />
+    <path
+       id="rect2277-7-2"
+       style="fill:#d83424;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:1.06268;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 123.38354,17.318687 V 44.364765 H 19.221531 V 103.94636 H 123.38354 v 27.33706 l 73.1451,-56.982364 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:0.95;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:end;text-anchor:end;fill:#d3d2af;fill-opacity:1;stroke:none"
+       x="150.76311"
+       y="69.592293"
+       id="text853"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="150.76311"
+         y="69.592293">No</tspan><tspan
+         sodipodi:role="line"
+         x="150.76311"
+         y="94.925659"
+         id="tspan855">Retreat</tspan></text>
+  </g>
+</svg>

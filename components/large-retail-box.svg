@@ -319,7 +319,7 @@
    id="namedview1178"
    showgrid="false"
    inkscape:snap-global="true"
-   inkscape:zoom="0.71045109"
+   inkscape:zoom="0.69166905"
    inkscape:cx="411.26382"
    inkscape:cy="504.98307"
    inkscape:window-x="-8"
@@ -528,9 +528,10 @@
    id="rect2277-9-3-1-2"
    width="81.000008"
    height="855"
-   x="813.34064"
+   x="813.341"
    y="139.46899"
-   sodipodi:type="rect" /><rect
+   sodipodi:type="rect"
+   d="m 813.341,139.46899 h 81.00001 v 855 H 813.341 Z" /><rect
    style="fill:#73b6aa;fill-opacity:1;fill-rule:evenodd;stroke:#585452;stroke-width:3.55104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
    id="rect2277-9-3-1-2-8"
    width="81.000008"
